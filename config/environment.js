@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'to-do-list',
+    modulePrefix: 'to-do-list-frontend',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
